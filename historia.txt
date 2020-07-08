@@ -2,7 +2,7 @@ Proyecto colaborativo con los nuevos comandos de git
 es una página hecha en Bootstrap
 
 Colaboradores:
-    1.	Jessica Muñoz Hernández
-    2.	Luis Angel Larios Castillo
-    3.	Miguel Angel Zamora Carmona 
-    4.	Sandra Gutiérrez Rodríguez
+    1.	Jessica Muñoz Hernández -> slide
+    2.	Luis Angel Larios Castillo -> menú
+    3.	Miguel Angel Zamora Carmona -> footer
+    4.	Sandra Gutiérrez Rodríguez -> galería 
